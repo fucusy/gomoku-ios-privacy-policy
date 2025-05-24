@@ -1,0 +1,1 @@
+# gomoku-ios-privacy-policy
